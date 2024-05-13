@@ -1,0 +1,2 @@
+completed: C1W1_Assignment.ipynb
+not started: ungraded_lab
