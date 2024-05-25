@@ -1,2 +1,2 @@
-not started: C1W3_Assignment
-not started: both ungraded_labs
+completed: C1W3_Assignment
+completed: both ungraded_labs
